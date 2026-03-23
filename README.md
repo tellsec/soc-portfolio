@@ -2,6 +2,13 @@
 
 This repository contains my practical cybersecurity learning work focused on Blue Team operations, VPS hardening, and defensive security documentation.
 
+## Highlights
+- Public Blue Team / SOC portfolio
+- Ubuntu VPS hardening documentation
+- SSH triage runbook
+- Daily security monitoring summary
+- SSH brute-force incident report
+
 ## Current focus
 - Ubuntu VPS hardening
 - WireGuard VPN
