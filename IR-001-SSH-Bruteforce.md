@@ -4,7 +4,7 @@
 Repeated SSH brute-force and invalid user attempts against Ubuntu VPS
 
 ## Date
-YYYY-MM-DD
+2026-03-04
 
 ## Analyst
 Telli
@@ -32,9 +32,9 @@ This incident report documents repeated SSH-related hostile activity observed ag
 
 ## Key findings
 - Accepted password events: 0
-- Accepted publickey events: [fill]
-- Failed password attempts: [fill]
-- Invalid user attempts: [fill]
+- Accepted publickey events: 1
+- Failed password attempts: 0
+- Invalid user attempts: 140
 - Fail2ban active: Yes
 - UFW active: Yes
 
